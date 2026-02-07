@@ -1,3 +1,2 @@
 # stringart
-stringart_for_yanami
-remember change the photo dictionary
+# remember change your photo dictionary
